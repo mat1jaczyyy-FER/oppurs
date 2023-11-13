@@ -1,6 +1,8 @@
 proslogodisnji/
 .vscode/
 compile_commands.json
+literature/
+STM32F407_test_example/
 
 # Prerequisites
 *.d
